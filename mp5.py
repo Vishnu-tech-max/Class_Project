@@ -11,8 +11,8 @@ import os#works with file paths and folders
 
 # Config: Update these paths
 
-IMAGEFOLDER = "/Users/srikrishnasreehari/Downloads/aminoacids 2"  # folder containing amino acid PNGs
-CSVFILE = "/Users/srikrishnasreehari/Downloads/aminoacids/codon_table.csv"  # CSV with columns codon, amino_acid
+IMAGEFOLDER = "aminoacids"  # folder containing amino acid PNGs
+CSVFILE = "codon_table.csv"  # CSV with columns codon, amino_acid
 
 
 # 1 Codon Lookup Window
